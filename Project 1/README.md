@@ -1,1 +1,2 @@
-This is where I created a web page with Azure and secured and binded it us SSL Certificate. 
+I used Microsoft Azure to build and host my own “cyber-blog” web application. I secured it with a SSL certificate, and applied Azure’s security features to protect it. 
+
