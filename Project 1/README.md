@@ -1,8 +1,8 @@
 I used Microsoft Azure to build and host my own “cyber-blog” web application. I secured it with a SSL certificate, and applied Azure’s security features to protect it. 
 
 Our Requirements Included:
-Hosting the web application using Azure’s Cloud Services
-Using Azure’s App Service resource to create the web application
+- Hosting the web application using Azure’s Cloud Services
+- Using Azure’s App Service resource to create the web application
 Choosing a domain with “godaddy or Azure” (choose what you selected)
 Deploying a Docker container which had a framework for a blog webpage
 SSHing  into the container to customize the webpage
