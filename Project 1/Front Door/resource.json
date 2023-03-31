@@ -1,0 +1,17 @@
+{
+    "id": "/subscriptions/d11539db-c4e5-48da-b85e-3dfd3b078f89/resourcegroups/REDteamRG/providers/Microsoft.Cdn/profiles/project1-FrontDoor",
+    "type": "Microsoft.Cdn/profiles",
+    "name": "project1-FrontDoor",
+    "location": "Global",
+    "kind": "frontdoor",
+    "tags": {},
+    "sku": {
+        "name": "Premium_AzureFrontDoor"
+    },
+    "properties": {
+        "originResponseTimeoutSeconds": 60,
+        "frontDoorId": "787924b1-8c86-4f65-b482-2cbe81827463",
+        "resourceState": "Active",
+        "provisioningState": "Succeeded"
+    }
+}
