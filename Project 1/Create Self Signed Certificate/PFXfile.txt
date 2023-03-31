@@ -1,0 +1,1 @@
+To create a PFX format, run the following command: openssl pkcs12 -export -out <new_certificatename.pfx> -inkey <keyname.key> -in <certificename.crt>
