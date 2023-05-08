@@ -23,28 +23,28 @@ Performed a penetration test on Rekalls network using a virutal environment to e
     -Session management
     -Brute force attacks
 
-
-  -**Web application testing tools** 
-      -Burp Suite
-
-
+ -**Web Application Tools**
+ 
+    -Burpe Suite
+    
+    
 **Penetration testing topics**
 
--OSINT
--MITRE framework
--Enumeration
--Port scanning
--Exploitation
--Shells (bind / reverse)
--Lateral movement
--Persistence
+    -OSINT
+    -MITRE framework
+    -Enumeration
+    -Port scanning
+    -Exploitation
+    -Shells (bind / reverse)
+    -Lateral movement
+    -Persistence
 
 
 **Penetration testing tools**
 
--Metasploit / Meterpreter
--Nmap
--Recon-ng
--shodan.io
--SearchSploit
--Netcat
+    -Metasploit / Meterpreter
+    -Nmap
+    -Recon-ng
+    -shodan.io
+    -SearchSploit
+    -Netcat
