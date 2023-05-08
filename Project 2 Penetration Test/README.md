@@ -7,16 +7,19 @@ Vulnerabilites that were covered:
 Web application vulnerabilities
 
 Injection vulnerabilities
+
 SQL injection
 XSS (stored / reflected)
 
 
 Back-end component vulnerabilities
+
 Directory traversal
 LFI/RFI
 
 
 Authentication vulnerabilities
+
 Session management
 Brute force attacks
 
@@ -25,6 +28,7 @@ Web application testing tools (Burp Suite)
 
 
 Penetration testing topics
+
 OSINT
 MITRE framework
 Enumeration
@@ -36,6 +40,7 @@ Persistence
 
 
 Penetration testing tools
+
 Metasploit / Meterpreter
 Nmap
 Recon-ng
