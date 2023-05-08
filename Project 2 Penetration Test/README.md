@@ -6,25 +6,26 @@ Performed a penetration test on Rekalls network using a virutal environment to e
 
 **Web application vulnerabilities**
 
-**Injection vulnerabilities**
+  -**Injection vulnerabilities**
 
--SQL injection
--XSS (stored / reflected)
-
-
-**Back-end component vulnerabilities**
-
--Directory traversal
--LFI/RFI
+    -SQL injection
+    -XSS (stored / reflected)
 
 
-**Authentication vulnerabilities**
+  -**Back-end component vulnerabilities**
 
--Session management
--Brute force attacks
+    -Directory traversal
+    -LFI/RFI
 
 
-Web application testing tools (Burp Suite)
+  -**Authentication vulnerabilities**
+
+    -Session management
+    -Brute force attacks
+
+
+  -**Web application testing tools** 
+      -Burp Suite
 
 
 **Penetration testing topics**
