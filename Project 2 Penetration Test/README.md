@@ -37,3 +37,10 @@ Scenario:
     - shodan.io
     - SearchSploit
     - Netcat 
+
+Phases of a penetration test engagement. For example:
+      - **Reconnaissance**: This category contains challenges that use open source intelligence tools.
+      - **Scanning**: This category contains challenges that use scanning tools, such as Nmap and Nessus.
+      - **Exploitation**: This category contains challenges that use exploitation tools, such as Metasploit.
+      - **Post Exploitation**: This category contains challenges that use post-exploitation tools, such as Meterpreter.
+  
