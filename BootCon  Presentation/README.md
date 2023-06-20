@@ -1,5 +1,5 @@
-**bootCon Presentation Rules and Requirements**
-**Cover the following rules and requirements for bootCon presentations:**
+####**bootCon Presentation Rules and Requirements**
+##**Cover the following rules and requirements for bootCon presentations:**
 
 
 1. If you haven't yet received approval for your project, make sure to submit your project summary to your instructor for approval before proceeding. Your project summary should include:
