@@ -1,3 +1,24 @@
+## **What Is BootCon?**
+
+BootCon is a mock cybersecurity conference. It takes place during class, and you will have an opportunity to showcase the skills that you’ve learned throughout the course with a presentation to the class. This “conference” occurs on the last day of the course and will also count as the final project.
+
+
+## **What Is a BootCon Presentation?**
+
+Cybersecurity professionals commonly present the following to their peers:
+-Security research that they're conducting
+-Newly discovered security vulnerabilities of products, devices, software, or hardware
+-Demonstrations of the “hacks” that will exploit these vulnerabilities
+-Mitigations to protect against these vulnerabilities
+
+These presentations often occur at security conferences, trade shows, and other industry events.
+
+All students of the Cybersecurity bootcamp have a similar opportunity to showcase the skills they learned during the bootcamp with a bootCon presentation.
+
+Most cybersecurity professionals present at conferences when they've found a new vulnerability. However, for bootCon presentations, it is acceptable and recommended that you recreate a finding that has already been discovered.
+
+
+
 ## **BootCon Presentation Rules and Requirements**
 ## **Cover the following rules and requirements for bootCon presentations:**
 
